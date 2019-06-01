@@ -30,3 +30,8 @@
 - [Molten - A minimal WSGI framework for building HTTP APIs](https://moltenframework.com/)
 - [SQLAlchemy - the Python SQL toolkit and Object Relational Mapper](https://www.sqlalchemy.org/)
 - [Starlette - A lightweight ASGI framework/toolkit for async web apps](https://www.starlette.io/)
+
+## Applications
+
+- [Airflow - A platform to programmatically author, schedule and monitor workflows](https://airflow.apache.org/)
+- [Redash - An open source dashboarding tool](https://redash.io/)
