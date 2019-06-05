@@ -27,6 +27,7 @@
 
 ### Python
 - [Dramatiq - A distributed task processing library](https://dramatiq.io/)
+- [Graphene - GraphQL in Python](https://graphene-python.org/)    
 - [Molten - A minimal WSGI framework for building HTTP APIs](https://moltenframework.com/)
 - [SQLAlchemy - the Python SQL toolkit and Object Relational Mapper](https://www.sqlalchemy.org/)
 - [Starlette - A lightweight ASGI framework/toolkit for async web apps](https://www.starlette.io/)
