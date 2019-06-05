@@ -16,6 +16,7 @@
 ### Javascript
 - [Apollo - An open source Graphql library](https://www.apollographql.com/)
 - [Axios - Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
+- [GoJS - Interactive JS diagrams](https://gojs.net/latest/index.html)
 - [Shaka Player - An open-source JavaScript library for adaptive media](https://github.com/google/shaka-player)
 - [Vue - The Progressive JavaScript Framework](https://vuejs.org/)
 
